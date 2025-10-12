@@ -1,5 +1,6 @@
 
-👋 Hi there! I’m **Gecille Campecino** — a **Software Developer & Educator** passionate about building intelligent, accessible, and scalable systems.
+# 👋 Hi there! I’m **Gecille Campecino** 
+— a **Software Developer & Educator** passionate about building intelligent, accessible, and scalable systems.
 
 💡 I specialize in **PHP backend frameworks**, **API automation**, and **dynamic database tools**.
 
