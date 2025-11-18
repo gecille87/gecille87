@@ -1,10 +1,10 @@
 
 # 👋 Hi there! I’m **Gecille Campeciño** 
-— a **Software Developer & Educator** passionate about building intelligent, accessible, and scalable systems.
+I'm a **Software Developer & Educator** passionate about building intelligent, accessible, and scalable systems.
 
 💡 I specialize in **PHP backend frameworks**, **API automation**, and **dynamic database tools**.
 
-🧠 With a background in **Computer Engineering**, I’ve developed solutions across web, IoT, and education — from **Arduino + Raspberry Pi** projects to **interactive learning apps** built in **MIT App Inventor**.
+🧠 With a background in **Computer Engineering**, I’ve developed solutions across web, IoT, and education. From **Arduino + Raspberry Pi** projects to **interactive learning apps** built in **MIT App Inventor**.
 
 🎓 I also teach programming to students, focusing on **Python**, **Arduino**, and **embedded systems**, helping them turn ideas into real-world prototypes.
 
@@ -16,4 +16,4 @@
 
 💬 Let’s collaborate on open-source tools, educational tech, or sustainable innovation projects.
 
-📫 Reach me on GitHub or connect on [LinkedIn](#) — always open to meaningful collaborations.
+📫 Follow me on GitHub or connect on [LinkedIn](#) and I'm always open to meaningful collaborations.
